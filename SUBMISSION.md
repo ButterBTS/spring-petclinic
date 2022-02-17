@@ -1,2 +1,2 @@
-[![FirstBuild](https://github.com/ButterBTS/spring-petclinic/blob/master/figures/First%20build.png)](https://github.com/ButterBTS/spring-petclinic)
+[![FirstBuild](https://github.com/ButterBTS/spring-petclinic/blob/master/figures/First%20build.png)]
 
