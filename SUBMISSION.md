@@ -4,6 +4,7 @@ Zhilong Zhou 2029240
 Your GitHub Actions dashboard showing a successful first build.
 ![FirstBuild](figures/FirstBuild.png)
 
+
 Your GitHub repository with the readme.md file selected showing the code that you
 changed to update the badge.
 ![ReadmeCode](figures/ReadmeCode.png)
@@ -11,6 +12,8 @@ changed to update the badge.
 
 Your GitHub repository with the readme.md file selected showing the build success
 status after you’ve updated the badge markdown.
+![BadgeShown](figures/BadgeShown.png)
+
 
 
 The section of the POM file showing the coordinates after you’ve commented them
