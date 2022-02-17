@@ -1,3 +1,4 @@
+<!-- Commenting the following out
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns="http://maven.apache.org/POM/4.0.0"
@@ -6,6 +7,7 @@
   <groupId>org.springframework.samples</groupId>
   <artifactId>spring-petclinic</artifactId>
   <version>2.2.0.BUILD-SNAPSHOT</version>
+        --> 
 
   <parent>
     <groupId>org.springframework.boot</groupId>
