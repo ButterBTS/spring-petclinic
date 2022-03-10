@@ -24,6 +24,8 @@ Veterinarians page:
 
 
 Attempt to run application container-error:
+
+
 ![Error](figures/error.png)
 
 
@@ -41,6 +43,8 @@ Applications-mysql.properties(updated):"C:\Users\akooo\spring-petclinic\src\main
 
 
 Output from docker-compose up:
+
+
 ![Docker-compose up](figures/docker-composeup.png)
 
 
