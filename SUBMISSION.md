@@ -14,8 +14,8 @@ Main page:
 DOCKER COMPOSE-MYSQL:
 
 Output from docker-compose up:
-![Docker-compose up1](figures/docker-compose up1.png)
-![Docker-compose up2](figures/docker-compose up2.png)
+![Docker-compose up1](figures/docker-composeup1.png)
+![Docker-compose up2](figures/docker-composeup2.png)
 
 Veterinarians page:
 ![Veterinarians](figures/veterinarians.png)
@@ -23,14 +23,14 @@ Veterinarians page:
 Attempt to run application container-error:
 ![Error](figures/error.png)
 
-Docker Compose-App Server and MYSQL:
+DOCKER COMPOSE-APP SERVER AND MYSQL:
 
 Docker-compose.yml(updated): 
 
 Applications-mysql.properties(updated):
 
 Output from docker-compose up:
-
+![Docker-compose up](figures/docker-composeup.png)
 
 
 
