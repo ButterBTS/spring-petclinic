@@ -1,6 +1,6 @@
 Zhilong Zhou 2029240
 
-Docker: 
+DOCKER: 
 
 Dockerfile: C:\Users\akooo\spring-petclinic\Dockerfile
 
@@ -8,7 +8,7 @@ Docker running:
 ![DockerRunning](figures/dockerrunning.jpg)
 
 Main page:
-
+![Browser](figures/browser.png)
 
 
 Docker Compose-MYSQL:
