@@ -31,10 +31,10 @@ Attempt to run application container-error:
 DOCKER COMPOSE-APP SERVER AND MYSQL:
 
 
-Docker-compose.yml(updated): ![Updated]("C:\Users\akooo\spring-petclinic\docker-compose.yml")
+Docker-compose.yml(updated): "C:\Users\akooo\spring-petclinic\docker-compose.yml"
 
 
-Applications-mysql.properties(updated):
+Applications-mysql.properties(updated):"C:\Users\akooo\spring-petclinic\src\main\resources\application-mysql.properties"
 
 
 
