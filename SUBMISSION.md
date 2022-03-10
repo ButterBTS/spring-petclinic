@@ -2,7 +2,7 @@ Zhilong Zhou 2029240
 
 DOCKER: 
 
-Dockerfile: C:\Users\akooo\spring-petclinic\Dockerfile
+Dockerfile: "C:\Users\akooo\spring-petclinic\Dockerfile"
 
 Docker running:
 ![DockerRunning](figures/dockerrunning.jpg)
@@ -20,14 +20,25 @@ Output from docker-compose up:
 Veterinarians page:
 ![Veterinarians](figures/veterinarians.png)
 
+
+
+
 Attempt to run application container-error:
 ![Error](figures/error.png)
 
+
+
 DOCKER COMPOSE-APP SERVER AND MYSQL:
 
-Docker-compose.yml(updated): 
+
+Docker-compose.yml(updated): ![Updated]("C:\Users\akooo\spring-petclinic\docker-compose.yml")
+
 
 Applications-mysql.properties(updated):
+
+
+
+
 
 Output from docker-compose up:
 ![Docker-compose up](figures/docker-composeup.png)
