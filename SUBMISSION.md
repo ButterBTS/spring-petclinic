@@ -11,6 +11,12 @@ Main page:
 ![Browser](figures/browser.png)
 
 
+
+
+
+
+
+
 DOCKER COMPOSE-MYSQL:
 
 Output from docker-compose up:
@@ -27,6 +33,13 @@ Attempt to run application container-error:
 
 
 ![Error](figures/error.png)
+
+
+
+
+
+
+
 
 
 
