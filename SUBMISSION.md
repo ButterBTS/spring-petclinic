@@ -11,15 +11,17 @@ Main page:
 ![Browser](figures/browser.png)
 
 
-Docker Compose-MYSQL:
+DOCKER COMPOSE-MYSQL:
 
 Output from docker-compose up:
-
+![Docker-compose up1](figures/docker-compose up1.png)
+![Docker-compose up2](figures/docker-compose up2.png)
 
 Veterinarians page:
+![Veterinarians](figures/veterinarians.png)
 
 Attempt to run application container-error:
-
+![Error](figures/error.png)
 
 Docker Compose-App Server and MYSQL:
 
