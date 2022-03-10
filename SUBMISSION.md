@@ -5,6 +5,7 @@ Docker:
 Dockerfile: C:\Users\akooo\spring-petclinic\Dockerfile
 
 Docker running:
+![DockerRunning](figures/dockerrunning.png)
 
 Main page:
 
